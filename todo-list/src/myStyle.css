@@ -1,0 +1,14 @@
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center; /* centers horizontally */
+  align-items: center; /* centers vertically */
+}
+
+h1 {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Sans-Serif;
+  text-align: center;
+}
