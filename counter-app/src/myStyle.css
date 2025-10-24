@@ -15,3 +15,11 @@ h1 {
 p{
   text-align: center;
 }
+
+
+button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
