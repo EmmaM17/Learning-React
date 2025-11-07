@@ -1,0 +1,35 @@
+.parent {
+  width: 100vw;              /* 100% of the viewport width */
+  height: 100vh;             /* 100% of the viewport height */
+  border: 3px solid rgb(120, 120, 120);          /* make it fill the full viewport height */
+  background-color: rgb(120, 120, 120);
+}
+.header{
+    background-color: rgb(120, 120, 120);
+    border: 3px solid rgb(120, 120, 120); 
+}
+h1{
+  padding: 10px;
+  text-align: center;
+}
+.quiz{
+    width: 100%;
+    height: 50%;
+    border: 3px solid rgb(120, 120, 120); 
+}
+.form{
+    margin: auto;
+    width: 50%;
+    height: 100%;
+    border: 3px solid rgb(220, 220, 220);
+    background-color: rgb(220, 220, 220);
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+}
+li{
+    font-size: 30px;
+    text-align: center;
+    padding: 5px;
+}

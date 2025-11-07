@@ -3,7 +3,7 @@ import { useState } from 'react';
 
 function inputList() {
   const [taskName, setName] = useState('');
-  const [tasks, setTasks] = useState([{ id: 1, name: 'Test program' }, { id: 2, name: 'Fix bugs' }]);
+  const [tasks, setTasks] = useState([{ id: 1, name: 'Test program' }, { id: 2, name: 'Fix alignment in Counter App' },{ id: 3, name: 'Make movie suggestion app' }]);
   let nextId = 0;
 
   return(
